@@ -24,16 +24,17 @@
 
 kakaotalk-clone/
 ├── public/
-│ └── index.html
+│   └── index.html
 ├── src/
-│ ├── assets/
-│ ├── components/
-│ ├── pages/
-│ ├── App.js
-│ └── index.js
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.js
+│   └── index.js
 ├── .gitignore
 ├── package.json
 └── README.md
+
 
 
 ---
