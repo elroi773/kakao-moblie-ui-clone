@@ -19,7 +19,6 @@
 - **버전 관리**: Git, GitHub
 
 ---
-
 ## 📁 폴더 구조 (예시)
 
 kakaotalk-clone/
@@ -34,7 +33,6 @@ kakaotalk-clone/
 ├── .gitignore
 ├── package.json
 └── README.md
-
 
 
 ---
